@@ -1,4 +1,4 @@
-![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://ict.iitk.ac.in/wp-content/uploads/ethical-hacking-2.jpg))
+<p align="center"><img src="https://github.com/hack-supriya/hack-supriya/blob/main/ethical-hacking.jpg" alt="Bt">
 
 <h1 align="center">Hi 👋, I'm Supriya Kumar Mitra</h1>
 <h3 align="center">Ethical Hacker</h3>
